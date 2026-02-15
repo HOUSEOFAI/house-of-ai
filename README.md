@@ -28,6 +28,9 @@ This repository serves as a public documentation hub for frameworks, principles,
 ## Ecosystem
 
 HOUSE OF AI™ supports a broader ecosystem of initiatives focused on ethical AI implementation and leadership.
+- THE AI CHANEL™ — luxury AI embodiment & client experience
+- CoachProAI™ — AI systems & training
+- Boston Bestie Bots™ — AI employee infrastructure
 
 ## Contact
 
