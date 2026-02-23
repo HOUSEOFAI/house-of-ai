@@ -1,6 +1,8 @@
 # HOUSE OF AI™
 
-Authority hub for ethical AI systems, boutique GPTs, and visibility infrastructure for women-led businesses.
+## AI Infrastructure Architect for Women-Led Businesses
+
+HOUSE OF AI™ designs AI systems architecture, agent infrastructure, and AEO visibility frameworks for women-led businesses.
 
 ## About
 
